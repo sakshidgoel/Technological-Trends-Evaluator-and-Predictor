@@ -1,4 +1,7 @@
 # StackOverflow-Technological-Trends
+
+## Introduction
+
 This repository provides an analysis on the StackOverflow Data loaded as Google's BigQuery Dataset. It aims to find out the trend of various technologies from 2009 to 2018 and predict the future technological trends using Linear Regression.
 
 These are some of the questions that this notebook aims to answer for now:  
@@ -39,3 +42,7 @@ These are some of the technologies that this kernel discusses:
       * Java
       * C#
       * Python
+
+## Resources
+
+[Kaggle Kernel](https://www.kaggle.com/pes12017000148/stackoverflow-technological-trends#Generalized-evaluator-for-technologies)
