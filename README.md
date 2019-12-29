@@ -45,4 +45,27 @@ These are some of the technologies that this kernel discusses:
 
 ## Resources
 
-[Kaggle Kernel](https://www.kaggle.com/pes12017000148/stackoverflow-technological-trends#Generalized-evaluator-for-technologies)
+### Project Code
+
+1. [Kaggle: StackOverFlow Technological Trends Evaluator and Predictor](https://www.kaggle.com/pes12017000148/stackoverflow-technological-trends#Generalized-evaluator-for-technologies)
+2. [Github: StackOverFlow_Technological_Trends] (StackOverflow_Technological_Trends)(https://github.com/sakshidgoel/StackOverflow-Technological-Trends)
+
+### Reference Kernels
+
+1. [Introduction to the bq_helper package | Kaggle](https://www.kaggle.com/sohier/introduction-to-the-bq-helper-package)
+2. [BigQuery to analyse the Stack Overflow data | Kaggle](https://www.kaggle.com/liananapalkova/bigquery-to-analyse-the-stack-overflow-data)
+3. [State of Javascript in 2018 on Stackoverflow | Kaggle](https://www.kaggle.com/zvone1/state-of-javascript-in-2018-on-stackoverflow)
+4. [Python trends in 2018 | Kaggle](https://www.kaggle.com/dtcarrot/python-trends-in-2018)
+
+### Reference WebPages
+
+1. [Hatched symbols in matplotlib](https://kitchingroup.cheme.cmu.edu/blog/2013/10/26/Hatched-symbols-in-matplotlib/)
+2. [matplotlib.patches.Patch Python Example](https://www.programcreek.com/python/example/94460/matplotlib.patches.Patch)
+3. [Customizing Plot Legends | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/04.06-customizing-legends.html)
+4. [2019 Top Technology Trends | Based on Stackoverflow Data Analysis](https://takacsmark.com/2019-top-technology-trends-stackoverflow-analysis/)
+5. [Exploratory Data Analysis (EDA) and Data Visualization with Python - Kite](https://kite.com/blog/python/data-analysis-visualization-python/)
+6. [BARPLOT – The Python Graph Gallery](https://python-graph-gallery.com/barplot/)
+
+## Contact
+
+For any comments or questions, please contact us at sakshidgoel@gmail.com / harika.balusa@gmail.com
