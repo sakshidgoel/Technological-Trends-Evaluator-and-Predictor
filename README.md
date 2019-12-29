@@ -48,7 +48,7 @@ These are some of the technologies that this kernel discusses:
 ### Project Code
 
 1. [Kaggle: StackOverFlow Technological Trends Evaluator and Predictor](https://www.kaggle.com/pes12017000148/stackoverflow-technological-trends#Generalized-evaluator-for-technologies)
-2. [Github: StackOverFlow_Technological_Trends] (StackOverflow_Technological_Trends)(https://github.com/sakshidgoel/StackOverflow-Technological-Trends)
+2. [Github: StackOverFlow_Technological_Trends: StackOverflow_Technological_Trends](https://github.com/sakshidgoel/StackOverflow-Technological-Trends)
 
 ### Reference Kernels
 
