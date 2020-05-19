@@ -1,4 +1,4 @@
-# StackOverflow-Technological-Trends
+# Technological Trends Evaluator and Predictor
 
 ## Introduction
 
